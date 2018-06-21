@@ -1,0 +1,81 @@
+PODS:
+  - Alamofire (4.5.1)
+  - BFPaperButton (2.1.2)
+  - FLAnimatedImage (1.0.12)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - HMSegmentedControl (1.5.4)
+  - JCore (1.1.6)
+  - JPush (3.0.7):
+    - JCore (~> 1.1.6)
+  - LeanCloud (11.0.0):
+    - LeanCloud/Storage (= 11.0.0)
+  - LeanCloud/Storage (11.0.0):
+    - Alamofire (~> 4.5)
+  - MBProgressHUD (1.0.0)
+  - mob_sharesdk (4.0.4):
+    - mob_sharesdk/ShareSDK (= 4.0.4)
+    - MOBFoundation
+  - mob_sharesdk/ShareSDK (4.0.4):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/QQ (4.0.4):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/SinaWeibo (4.0.4):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/WeChat (4.0.4):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKUI (4.0.4):
+    - MOBFoundation
+  - MOBFoundation (3.0.5)
+  - RandomKit (5.2.3):
+    - ShiftOperations (~> 1.0.2)
+    - Threadly (~> 1.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SDWebImage/GIF (4.2.2):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - ShiftOperations (1.0.2)
+  - SnapKit (4.0.0)
+  - Threadly (1.2.0)
+
+DEPENDENCIES:
+  - BFPaperButton
+  - FMDB
+  - HMSegmentedControl
+  - JPush
+  - LeanCloud
+  - MBProgressHUD
+  - mob_sharesdk
+  - mob_sharesdk/ShareSDKPlatforms/QQ
+  - mob_sharesdk/ShareSDKPlatforms/SinaWeibo
+  - mob_sharesdk/ShareSDKPlatforms/WeChat
+  - mob_sharesdk/ShareSDKUI
+  - RandomKit (~> 5.2.3)
+  - SDWebImage (~> 4.0)
+  - SDWebImage/GIF
+  - SnapKit (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  BFPaperButton: a25fdd3ff6898bdbd5cc9b1334ca36adb0296b9f
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  HMSegmentedControl: b25bc4ec44766e073d62c473188fb354ee244b76
+  JCore: 18fc8725124f26e55625eaf224659b3a999dcf63
+  JPush: 111b79b8a0169ab8fd4c486dac3ed166ed69293e
+  LeanCloud: cb29157ba8f4e948f3476b4503903b7e6da9c260
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  mob_sharesdk: b3ac49261b0e56d9e305d473c70bcde2e3a6e8ff
+  MOBFoundation: 9166eb08ad9e99cfdd7fd1765707ea2250192e9e
+  RandomKit: 380745911c4f7989707489b2ce297194bfcf5031
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  ShiftOperations: 702c9aa98d3b20d98dceb71dd8437b562f7ab3ad
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Threadly: b772ed7c1ff4a3f03eb4600bbc5ef83b3be5cb29
+
+PODFILE CHECKSUM: ebc6bc38ed679823f9690af564b953bdc4e811ca
+
+COCOAPODS: 1.3.1
